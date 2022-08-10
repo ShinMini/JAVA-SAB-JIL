@@ -1,0 +1,10 @@
+package model;
+
+public class Clients {
+	private String clientName;
+	private int clientAge;
+	private String clientEmail;
+	private String clientID;
+	private String clientPWD;
+
+}

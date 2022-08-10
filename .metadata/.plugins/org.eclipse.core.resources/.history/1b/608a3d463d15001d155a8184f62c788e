@@ -1,0 +1,10 @@
+package controller.service;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Login {
+	Scanner sc = new Scanner(System.in);
+	ArrayList<String> str_arr = ArrayList<>();
+
+}

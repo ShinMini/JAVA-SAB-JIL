@@ -1,0 +1,13 @@
+package model;
+
+import java.util.ArrayList;
+
+public class CafeMenu {
+	private ArrayList<String> desrtList;
+
+	private ArrayList<String> Desert(String Deserts){
+		
+		return desertList;
+	};
+
+}

@@ -1,0 +1,13 @@
+package view;
+
+
+public class StartView {
+
+	public static void main(String[] args) {
+		MakeFile mkfile = new MakeFile();
+
+
+
+	}
+
+}

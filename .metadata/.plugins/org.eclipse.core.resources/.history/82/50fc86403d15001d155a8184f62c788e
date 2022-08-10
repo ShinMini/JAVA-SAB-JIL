@@ -1,0 +1,6 @@
+package controller.service;
+
+public class Login {
+	Scanner sc = new Scanner(System.in);
+
+}

@@ -1,0 +1,17 @@
+package view;
+
+import controller.service.MakeFile;
+
+public class StartView {
+
+	public static void main(String[] args) {
+
+		MakeFile mkfile = new MakeFile();
+		mkfile.setFilePath("../../../test/text.txt");
+		mkfile.makeFile_toPath();
+
+
+
+	}
+
+}

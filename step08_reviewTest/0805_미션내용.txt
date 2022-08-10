@@ -1,0 +1,13 @@
+[응용력 향상]
+
+
+미션 - 동일한 주제 단 배열로 완성
+	- 배열을 ArrayList로 변환 완성
+		- 리펙토링 : 기능은 동일/코드 개선
+		
+		- 수정가능한 클래스들 list
+			1. TalentDonationProjectService.java
+			2. EndView.java
+			3. StartView.java
+			
+		

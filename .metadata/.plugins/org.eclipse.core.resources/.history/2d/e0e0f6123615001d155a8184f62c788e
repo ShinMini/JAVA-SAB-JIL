@@ -1,0 +1,6 @@
+package model;
+
+public class Cafes {
+	private String cafesName;
+
+}

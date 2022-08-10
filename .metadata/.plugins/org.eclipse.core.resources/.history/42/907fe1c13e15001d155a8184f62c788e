@@ -1,0 +1,22 @@
+package controller.service;
+
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class MakeFile {
+	private File file = new File(this.str);
+	private String str = "../../../test/text.txt";
+
+	public void MakeFile_toPatch(String filePath) {
+		try (BufferedWriter writer = new BufferedWriter(new FileWriter(file))) {
+			writer.append("Hello~\n");
+			writer.append("World!");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+
+	}
+
+}

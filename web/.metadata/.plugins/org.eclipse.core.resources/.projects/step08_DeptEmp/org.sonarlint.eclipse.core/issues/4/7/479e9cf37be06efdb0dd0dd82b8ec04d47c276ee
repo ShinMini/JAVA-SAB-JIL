@@ -1,0 +1,12 @@
+
+l	java:S1259"<This block of commented-out lines of code should be removed.(‰ªøÿÿÿÿHËRMAJORZ
+CODE_SMELL
+k
+java:S1128"8Remove this unused import 'javax.persistence.FetchType'.(‡¯¿8«Ü¨ã®0HÌRMINORZ
+CODE_SMELL
+l
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØúøÿÿÿÿHÎRMINORZ
+CODE_SMELL
+\
+java:S1128"+Remove this unused import 'lombok.NonNull'.(¦¸©—ıÿÿÿÿHĞRMINORZ
+CODE_SMELL

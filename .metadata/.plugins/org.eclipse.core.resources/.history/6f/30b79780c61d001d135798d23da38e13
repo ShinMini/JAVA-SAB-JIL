@@ -1,0 +1,21 @@
+package step01;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class StreamAPI {
+	
+	public static void main(String args[]) {
+		System.out.println(" --- step 01 ---");
+		/* List interface 즉 객체 생성 불가, 미완성 메소드와 상수로 구성
+		 * 단 하위 클래스에서 상속(implements) 받고 모든 메소드 재정의
+		
+		*/
+		List<String> datas = Arrays.asList("a", "b", "c", "d");
+		
+		datas.forEach(s->System.out.println(s));
+		System.out.println("-----------");
+		datas.forEach(System.out::println);
+	}
+
+}

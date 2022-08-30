@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\gusal\JAVA\task_0822\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+315225393.index
+287252918.index
+3899595633.index
+778845301.index

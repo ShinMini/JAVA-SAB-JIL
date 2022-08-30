@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server hostname="localhost" id="HTTP Server at localhost" isPublishing="false" name="HTTP Server at localhost" port="9000" runtime-id="HTTP Server" server-type="org.eclipse.wst.server.http.server" server-type-id="org.eclipse.wst.server.http.server" start-timeout="240" stop-timeout="240" timestamp="0" urlPrefix="9000"/>
+</servers>

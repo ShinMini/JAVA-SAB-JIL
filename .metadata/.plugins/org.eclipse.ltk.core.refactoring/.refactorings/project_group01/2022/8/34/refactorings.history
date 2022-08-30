@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pokemon.controller.PokemonBookController&apos; to &apos;PokemonController&apos;&#x0D;&#x0A;- Original project: &apos;project_group01&apos;&#x0D;&#x0A;- Original element: &apos;pokemon.controller.PokemonBookController&apos;&#x0D;&#x0A;- Renamed element: &apos;pokemon.controller.PokemonController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PokemonBookController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src=/optional=/true=/=/maven.pomderived=/true=/&lt;pokemon.controller{PokemonBookController.java[PokemonBookController" matchStrategy="1" name="PokemonController" qualified="false" references="true" similarDeclarations="false" stamp="1660463816520" textual="false" version="1.0"/>
+</session>

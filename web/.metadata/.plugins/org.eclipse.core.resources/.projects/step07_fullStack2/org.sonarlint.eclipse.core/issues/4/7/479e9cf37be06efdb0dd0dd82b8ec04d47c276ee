@@ -1,0 +1,12 @@
+
+l
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØŽúøÿÿÿÿH«RMINORZ
+CODE_SMELL
+l	java:S1259"<This block of commented-out lines of code should be removed.(‰ªøÿÿÿÿH­RMAJORZ
+CODE_SMELL
+k
+java:S1128"8Remove this unused import 'javax.persistence.FetchType'.(‡¯¿8«Ü¨ã®0H®RMINORZ
+CODE_SMELL
+\
+java:S1128"+Remove this unused import 'lombok.NonNull'.(¦¸©—ýÿÿÿÿH°RMINORZ
+CODE_SMELL

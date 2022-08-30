@@ -1,0 +1,19 @@
+
+f
+java:S1118":Add a private constructor to hide the implicit public one.(ÇÀ—„HÏ	RMAJORZ
+CODE_SMELL
+i
+java:S1854&"8Remove this useless assignment to local variable "rset".(¼‘……úÿÿÿÿHÐ	RMAJORZ
+CODE_SMELL
+i
+java:S1854*"8Remove this useless assignment to local variable "stmt".(ÏÐ§æüÿÿÿÿHÑ	RMAJORZ
+CODE_SMELL
+i
+java:S1854."8Remove this useless assignment to local variable "conn".(€×³›ÿÿÿÿÿHÒ	RMAJORZ
+CODE_SMELL
+i
+java:S1854:"8Remove this useless assignment to local variable "stmt".(ÏÐ§æüÿÿÿÿHÓ	RMAJORZ
+CODE_SMELL
+i
+java:S1854>"8Remove this useless assignment to local variable "conn".(€×³›ÿÿÿÿÿHÔ	RMAJORZ
+CODE_SMELL

@@ -1,0 +1,53 @@
+package step01;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.junit.Test;
+
+public class StreamAPI2 {
+	
+	public static void main(String[] args) {
+
+	}
+	// DTO 사용
+	@Test
+	public static void step02(){
+
+	}
+
+	// 기초
+	public static void step01(){
+	// 1 ~ 5까지의 int값을 기반으로 List에는 객체만 저장
+	// int => integer 객체로 변환된 list
+	List<Integer> intDatas = Arrays.asList(1, 2, 3, 4, 5);
+	System.out.println(intDatas);
+		
+	// % 2 == 0
+	// System.out.println(intDatas.stream().filter(v -> v % 2 == 0)); //java.util.stream.ReferencePipeline$2@198e2867
+	// System.out.println(intDatas.stream().filter(v -> v % 2 == 0).mapToInt(i -> i)); // java.util.stream.ReferencePipeline$4@567d299b
+
+
+	System.out.println("1. 짝수만 받아서 합");
+	System.out.println(intDatas.stream().filter(v -> v % 2 == 0).mapToInt(i -> i).sum());	// 6
+	
+	//? 홀수 값만으로 합 구하기
+	System.out.println("\n2. 홀수만 받아서 합");
+	System.out.println(intDatas.stream().filter(v -> v % 2 != 0).mapToInt(i -> i).sum());	// 6
+
+
+	//? 홀수 개수 구하기
+	System.out.println("\n3. 홀수 개수");
+	System.out.println(intDatas.stream().filter(v -> v % 2 != 0).mapToInt(i -> i).count());	// 6
+
+	//? 홀수 중 최댓값(max)
+	System.out.println("\n2. 홀수 중 최댓값");
+	System.out.println(intDatas.stream().filter(v -> v % 2 != 0).mapToInt(i -> i).max());	// 6
+	
+	//? 2만빼고 출력
+	System.out.println("\n2. 홀수 중 최댓값");
+	(intDatas.stream().filter(v -> v != 2).mapToInt(i -> i)).forEach(System.out::println);
+
+	}
+
+}

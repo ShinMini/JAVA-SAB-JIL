@@ -1,0 +1,29 @@
+
+…
+java:S11926"JDefine a constant instead of duplicating this literal "errorMsg" 10 times.(²ζ ϊÿÿÿÿ8ªύν®0HªRCRITICALZ
+CODE_SMELL
+‡
+java:S1192("LDefine a constant instead of duplicating this literal "activistAll" 3 times.(ό³ªΒÿÿÿÿÿ8ªύν®0HµRCRITICALZ
+CODE_SMELL
+f
+java:S1161":Add the "@Override" annotation above this method signature(χ¤‹ϊHRMAJORZ
+CODE_SMELL
+
+java:S1989"aHandle the following exceptions that could be thrown by "process": ServletException, IOException.(΅βΚ–ύÿÿÿÿ8ªύν®0HΘRMINORZVULNERABILITY
+†
+java:S1192^"KDefine a constant instead of duplicating this literal "activistId" 5 times.(•’ΉΘώÿÿÿÿ8ªύν®0HΉRCRITICALZ
+CODE_SMELL
+‚
+java:S11927"NDefine a constant instead of duplicating this literal "showError.jsp" 8 times.(¶ι8ªύν®0HΏRCRITICALZ
+CODE_SMELL
+„
+java:S1192*"IDefine a constant instead of duplicating this literal "activist" 5 times.(ξμ‡κύÿÿÿÿ8ªύν®0H RCRITICALZ
+CODE_SMELL
+
+java:S1989"aHandle the following exceptions that could be thrown by "process": ServletException, IOException.(΅βΚ–ύÿÿÿÿ8ªύν®0HΛRMINORZVULNERABILITY
+‰
+java:S1192_"SDefine a constant instead of duplicating this literal "activistDetail.jsp" 3 times.(‹βΤ–8ªύν®0H¦RCRITICALZ
+CODE_SMELL
+r
+java:S1161":Add the "@Override" annotation above this method signature(ώ³‚”ϋÿÿÿÿ8ªύν®0HΙRMAJORZ
+CODE_SMELL

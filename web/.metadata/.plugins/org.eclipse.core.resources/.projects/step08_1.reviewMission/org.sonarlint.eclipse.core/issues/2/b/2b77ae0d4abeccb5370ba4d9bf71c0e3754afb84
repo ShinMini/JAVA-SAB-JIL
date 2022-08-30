@@ -1,0 +1,55 @@
+
+§
+java:S1130Ì"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(§ûÿÿÿÿ8şÜ‹î®0H‘RMINORZ
+CODE_SMELL
+ 
+java:S1130ö"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(†®°•úÿÿÿÿHôRMINORZ
+CODE_SMELL
+®
+java:S1192Ï"Define a constant instead of duplicating this literal "ê²€ìƒ‰í•˜ëŠ” ì¬ëŠ¥ê¸°ë¶€ í”„ë¡œì íŠ¸ê°€ ë¯¸ ì¡´ì¬í•©ë‹ˆë‹¤." 3 times.(ï…ø1HíRCRITICALZ
+CODE_SMELL
+¡
+java:S1130^"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(²û‡¹8şÜ‹î®0H“RMINORZ
+CODE_SMELL
+¦
+java:S1130+"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(“ì•ÿÿÿÿÿ8şÜ‹î®0HRMINORZ
+CODE_SMELL
+›
+java:S1130”"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(•ÍîåH‡RMINORZ
+CODE_SMELL
+ 
+java:S1130¢"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(¾¦ùüÿÿÿÿHRMINORZ
+CODE_SMELL
+§
+java:S1130­"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ÉÑşÕüÿÿÿÿ8Èøî®0HŸRMINORZ
+CODE_SMELL
+ 
+java:S1130Ç"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(‹…‚ÇûÿÿÿÿH‰RMINORZ
+CODE_SMELL
+Ÿ
+java:S1130 "nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ŒèŸ³ÿÿÿÿÿHùRMINORZ
+CODE_SMELL
+¢
+java:S1319Ç"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‹…‚ÇûÿÿÿÿHöRMINORZ
+CODE_SMELL
+¢
+java:S1319ö"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†®°•úÿÿÿÿHÿRMINORZ
+CODE_SMELL
+
+java:S3008"VRename this field "ActivistDAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ñ…Ÿùÿÿÿÿ8ø¢•ï®0H RMINORZ
+CODE_SMELL
+›
+java:S1130Ã"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(‘„¿æH‹RMINORZ
+CODE_SMELL
+Ÿ
+java:S1130:"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(–ù¹ ıÿÿÿÿHıRMINORZ
+CODE_SMELL
+š
+java:S1130í"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(½“¢7HûRMINORZ
+CODE_SMELL
+ˆ
+java:S3008"URename this field "ProbonoDAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÎû²8ªå›ï®0Hƒ!RMINORZ
+CODE_SMELL
+š
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(²®ÿıH…RMINORZ
+CODE_SMELL

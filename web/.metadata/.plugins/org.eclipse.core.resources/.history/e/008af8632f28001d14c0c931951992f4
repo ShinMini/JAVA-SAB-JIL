@@ -1,0 +1,35 @@
+﻿package probono.model.dto;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.RequiredArgsConstructor;
+import lombok.Setter;
+import lombok.ToString;
+
+@Getter
+@Setter
+@AllArgsConstructor
+@ToString
+@NoArgsConstructor
+@RequiredArgsConstructor
+
+@Builder
+@Entity
+public class People {
+	@Id
+	@Column
+	private String id;
+
+	@Column
+	private String name;
+
+	@Column
+	private String password;
+
+}

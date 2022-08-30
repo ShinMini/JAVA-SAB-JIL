@@ -1,0 +1,21 @@
+package step02;
+
+interface Playdata{
+	// 반드시 나이값 반환
+	public abstract int getAge();
+	
+}
+
+public class InnerClass {
+	public static void main(String[] args) {
+		// playdata p1 = new Playdata();
+		playdata p1 = new Playdata() {
+			public int getAge() {
+				return 20;
+			}
+			
+		}
+		
+	}
+
+}

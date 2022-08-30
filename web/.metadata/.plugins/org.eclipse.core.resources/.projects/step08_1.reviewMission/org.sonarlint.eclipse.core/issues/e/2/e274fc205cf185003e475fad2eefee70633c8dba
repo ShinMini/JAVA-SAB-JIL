@@ -1,0 +1,29 @@
+
+}
+java:S1192'"IDefine a constant instead of duplicating this literal "activist" 5 times.(îì‡êıÿÿÿÿHïRCRITICALZ
+CODE_SMELL
+‚
+java:S1192Z"SDefine a constant instead of duplicating this literal "activistDetail.jsp" 3 times.(‹âÔ–HõRCRITICALZ
+CODE_SMELL
+~
+java:S11923"JDefine a constant instead of duplicating this literal "errorMsg" 10 times.(²æ úÿÿÿÿHùRCRITICALZ
+CODE_SMELL
+€
+java:S1192%"LDefine a constant instead of duplicating this literal "activistAll" 3 times.(ü³ªÂÿÿÿÿÿH„RCRITICALZ
+CODE_SMELL
+
+java:S1192Y"KDefine a constant instead of duplicating this literal "activistId" 5 times.(•’¹ÈşÿÿÿÿHˆRCRITICALZ
+CODE_SMELL
+{
+java:S11924"NDefine a constant instead of duplicating this literal "showError.jsp" 8 times.(¶éHRCRITICALZ
+CODE_SMELL
+k
+java:S1161":Add the "@Override" annotation above this method signature(Ïû©ÖûÿÿÿÿH—RMAJORZ
+CODE_SMELL
+•
+java:S1989"aHandle the following exceptions that could be thrown by "process": ServletException, IOException.(¡âÊ–ıÿÿÿÿH™RMINORZVULNERABILITY
+f
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿HšRMAJORZ
+CODE_SMELL
+•
+java:S1989"aHandle the following exceptions that could be thrown by "process": ServletException, IOException.(¡âÊ–ıÿÿÿÿHœRMINORZVULNERABILITY

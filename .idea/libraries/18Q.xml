@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="18Q">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Downloads/18Q.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Downloads/18Q.jar!/step18_emp_deptMission_s/src" />
+    </SOURCES>
+  </library>
+</component>
